@@ -1,0 +1,3 @@
+Building as a static library
+	$ cmake -Bbuild -DCMAKE_TOOLCHAIN_FILE=cmake/cortex_m4.cmake -GNinja .
+	$ cmake --build build/
