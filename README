@@ -2,4 +2,4 @@ Building as a static library
 	$ cmake -Bbuild -DCMAKE_TOOLCHAIN_FILE=cmake/cortex_m4.cmake -GNinja .
 	$ cmake --build build/
 
-这个项目主要用来练习使用 Visual Studio 来编译、调试，下载一个 Hello World 程序，并可支持多种架构。
+这个项目主要用来练习使用 Visual Studio，eclipse，命令行来编译、调试，下载一个 Hello World 程序，并可支持多种架构。
