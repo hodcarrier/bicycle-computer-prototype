@@ -7,7 +7,7 @@ set(THREADX_TOOLCHAIN "gnu")
 
 set(MCPU_FLAGS "-mthumb -mcpu=cortex-m4")
 set(VFP_FLAGS "")
-set(SPEC_FLAGS "--specs=nosys.specs")
-# set(LD_FLAGS "-nostartfiles")
+set(SPEC_FLAGS "--specs=nano.specs --specs=nosys.specs")
+set(LD_FLAGS "-nostartfiles")
 
 include(${CMAKE_CURRENT_LIST_DIR}/arm-none-eabi.cmake)
