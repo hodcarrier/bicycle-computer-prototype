@@ -7,3 +7,16 @@ Building as a static library
 
 代码格式配置：.editorconfig
 代码风格配置：.clang-format
+
+自动编译：https://github.com/hodcarrier/bicycle-computer-prototype/actions
+
+Visual Studio - CMake 编译开发
+
+OpenOCD调试。
+
+
+arch... support:
+arm
+arm64
+mips
+loongarch
