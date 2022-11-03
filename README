@@ -3,3 +3,7 @@ Building as a static library
 	$ cmake --build build/
 
 这个项目主要用来练习使用 Visual Studio，eclipse，命令行来编译、调试，下载一个 Hello World 程序，并可支持多种架构。
+
+
+代码格式配置：.editorconfig
+代码风格配置：.clang-format
