@@ -10,7 +10,8 @@ Building as a static library
 
 自动编译：https://github.com/hodcarrier/bicycle-computer-prototype/actions
 
-Visual Studio - CMake 编译开发
+Visual Studio - CMake 开发环境
+eclipse 开发环境
 
 OpenOCD调试。
 
